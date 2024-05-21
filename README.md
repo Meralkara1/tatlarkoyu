@@ -14,5 +14,5 @@ Yöresel Ürün Kategorileri: Yemek, içecek, el işi ürünler gibi çeşitli k
 Üretici Profilleri: Her üreticinin hikayesini, ürünlerini ve iletişim bilgilerini içeren profil sayfaları.
 Güvenli Ödeme ve Sipariş Yönetimi: Kullanıcıların güvenli bir şekilde ödeme yapabilmeleri ve siparişlerini kolaylıkla yönetebilmeleri için entegre ödeme ve sipariş yönetimi sistemi.
 "Tatlar Köyü", Türkiye'nin yöresel zenginliklerini keşfetmek isteyen kullanıcılar için birinci tercih olacak ve aynı zamanda yöresel ürünlerini daha geniş bir kitleye tanıtmak isteyen üreticilere de bir platform sağlayacaktır.
-PROJE KATALOGU:
+
 
