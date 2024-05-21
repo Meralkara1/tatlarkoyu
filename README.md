@@ -1,3 +1,4 @@
+TATLAR KOYU YAZILIM PROJESİ
 Yöresel Lezzetlerin Buluştuğu Bir Platform: "Tatlar Köyü"
 Proje Detayı:
 "Tatlar Köyü", Türkiye'nin dört bir yanından gelen yöresel lezzetlerin buluşma noktası olarak tasarlanmış bir web platformudur. Bu platform, kullanıcıların çeşitli yöresel ürünlere erişim sağlayabileceği ve bu ürünleri kolaylıkla satın alabileceği bir alışveriş deneyimi sunar.
@@ -14,5 +15,10 @@ Yöresel Ürün Kategorileri: Yemek, içecek, el işi ürünler gibi çeşitli k
 Üretici Profilleri: Her üreticinin hikayesini, ürünlerini ve iletişim bilgilerini içeren profil sayfaları.
 Güvenli Ödeme ve Sipariş Yönetimi: Kullanıcıların güvenli bir şekilde ödeme yapabilmeleri ve siparişlerini kolaylıkla yönetebilmeleri için entegre ödeme ve sipariş yönetimi sistemi.
 "Tatlar Köyü", Türkiye'nin yöresel zenginliklerini keşfetmek isteyen kullanıcılar için birinci tercih olacak ve aynı zamanda yöresel ürünlerini daha geniş bir kitleye tanıtmak isteyen üreticilere de bir platform sağlayacaktır.
+TAKIM ÜYELERİ:
+https://github.com/Meralkara1
+https://github.com/Dilekyilmazz
+https://github.com/sevvalnuroksuz
+https://github.com/Adileakklc
 
 
